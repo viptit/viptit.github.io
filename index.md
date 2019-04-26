@@ -1,3 +1,7 @@
+# VIPTIT
+
+[百度一下，你就知道](https://www.baidu.com/)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/viptit/viptit.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
